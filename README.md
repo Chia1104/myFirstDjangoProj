@@ -34,5 +34,6 @@ $ pipenv install
 
 Start the development server:
 ```
-$ pipenv run python3 manage.py runserver
+$ pipenv shell
+$ pipenv run python manage.py runserver
 ```
